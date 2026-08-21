@@ -1,0 +1,4 @@
+export const BARCODE_TYPES = {
+  COMPANY: "COMPANY",
+  GENERATE: "GENERATE",
+};
